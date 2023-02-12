@@ -1,0 +1,21 @@
+# Ignore zip files
+*.zip
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Ignore dataset folder (recommended)
+crop/
+Image Processor/
+My_Model/Classifier/*.h5
+My_Model/Classifier/*.png
+My_Model/Classifier/*.mp4
+
+Transfer_Learning/*.zip
+Transfer_Learning/*.h5
+Transfer_Learning/*.joblib
