@@ -4,8 +4,9 @@
 
 This repository contains the implementation of the hybrid detection–classification pipeline proposed in:
 
-**Amin Mavaddat, Fabio A. A. Andrade, Karl Thomas Hjelmervik, Erik Andrew Johannessen, Christian Hovden**
-*A Hybrid Deep Learning-Based Approach in Agricultural Sustainability: Apple Orchard Study* 
+## Publications
+
+- [My Paper on Google Scholar](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=9XVrMOoAAAAJ&citation_for_view=9XVrMOoAAAAJ:u5HHmVD_uO8C)
 
 ---
 
